@@ -1,7 +1,8 @@
+// count the elements other than max repeating element in an array  
 let array = [2,3,1,8,8,5,6,9,9,1,3,9]
 
-counts = []
-visited = []
+let counts = []
+let visited = []
 
 for (let i = 0; i < array.length; i++) {
 
