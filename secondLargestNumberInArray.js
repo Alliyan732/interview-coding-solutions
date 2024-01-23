@@ -10,3 +10,4 @@ const secondLargestFunct = (array) => {
 
 let array = [7,2,5,8,9,6,3,1,4]
 console.log("Second Largest element in array: ", secondLargestFunct(array));
+
